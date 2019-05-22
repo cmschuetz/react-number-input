@@ -42,20 +42,20 @@
     "react-dom": "^0.14 || ^15.0.0-rc || ^15.0"
   },
   "devDependencies": {
-    "@kadira/storybook": "^2.21.0",
-    "babel-cli": "^6.24.0",
-    "babel-plugin-remove-comments": "^2.0.0",
-    "babel-plugin-transform-class-properties": "^6.23.0",
-    "babel-plugin-transform-object-rest-spread": "^6.23.0",
-    "babel-preset-flow": "^6.23.0",
-    "babel-preset-latest": "^6.24.0",
-    "babel-preset-react": "^6.23.0",
-    "enzyme": "^2.8.0",
-    "flow-bin": "^0.42.0",
-    "husky": "^0.13.3",
-    "jest": "^19.0.2",
-    "lint-staged": "^3.4.0",
-    "prettier": "^0.22.0",
-    "react-addons-test-utils": "^15.4.2"
+    "@kadira/storybook": "2.35.3",
+    "babel-cli": "6.24.0",
+    "babel-plugin-remove-comments": "2.0.0",
+    "babel-plugin-transform-class-properties": "6.23.0",
+    "babel-plugin-transform-object-rest-spread": "6.23.0",
+    "babel-preset-flow": "6.23.0",
+    "babel-preset-latest": "6.24.0",
+    "babel-preset-react": "6.23.0",
+    "enzyme": "2.8.0",
+    "flow-bin": "0.42.0",
+    "husky": "0.13.3",
+    "jest": "19.0.2",
+    "lint-staged": "3.4.0",
+    "prettier": "0.22.0",
+    "react-addons-test-utils": "15.4.2"
   }
 }
